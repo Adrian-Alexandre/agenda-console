@@ -14,7 +14,7 @@ namespace AgendaConsole
             int op = 0;
             Console.Clear();
             Console.WriteLine("---------------------------------------");
-            Console.WriteLine(" AGENDA MODO CONSOLE by PITBULL DO ROCK");
+            Console.WriteLine(" AGENDA MODO CONSOLE by Adrian Alexandre");
             Console.WriteLine("---------------------------------------");
             Console.WriteLine("Exibir Contatos - 1");
             Console.WriteLine("Inserir Contato - 2");
