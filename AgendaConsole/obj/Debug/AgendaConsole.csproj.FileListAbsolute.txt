@@ -1,0 +1,14 @@
+E:\Projetos Estudo\AgendaConsole\AgendaConsole\bin\Debug\AgendaConsole.exe.config
+E:\Projetos Estudo\AgendaConsole\AgendaConsole\bin\Debug\AgendaConsole.exe
+E:\Projetos Estudo\AgendaConsole\AgendaConsole\bin\Debug\AgendaConsole.pdb
+E:\Projetos Estudo\AgendaConsole\AgendaConsole\obj\Debug\AgendaConsole.csproj.AssemblyReference.cache
+E:\Projetos Estudo\AgendaConsole\AgendaConsole\obj\Debug\AgendaConsole.csproj.CoreCompileInputs.cache
+E:\Projetos Estudo\AgendaConsole\AgendaConsole\obj\Debug\AgendaConsole.exe
+E:\Projetos Estudo\AgendaConsole\AgendaConsole\obj\Debug\AgendaConsole.pdb
+F:\VisualStudio Projetos\AgendaConsole\AgendaConsole\bin\Debug\AgendaConsole.exe.config
+F:\VisualStudio Projetos\AgendaConsole\AgendaConsole\bin\Debug\AgendaConsole.exe
+F:\VisualStudio Projetos\AgendaConsole\AgendaConsole\bin\Debug\AgendaConsole.pdb
+F:\VisualStudio Projetos\AgendaConsole\AgendaConsole\obj\Debug\AgendaConsole.csproj.AssemblyReference.cache
+F:\VisualStudio Projetos\AgendaConsole\AgendaConsole\obj\Debug\AgendaConsole.csproj.CoreCompileInputs.cache
+F:\VisualStudio Projetos\AgendaConsole\AgendaConsole\obj\Debug\AgendaConsole.exe
+F:\VisualStudio Projetos\AgendaConsole\AgendaConsole\obj\Debug\AgendaConsole.pdb
